@@ -34,19 +34,19 @@ installation guides.
 A set of numbered exercises to undertake to lead the reader through the topics
 of the masterclass, which lead to a logical conclusion.
 
-# 1. Topic 1 Heading
+## 1. Topic 1 Heading
 
 This is the main exercise section for a topic.
 
-## 1.1 Subtopic 1.1 Heading
+### 1.1 Subtopic 1.1 Heading
 
 This is a subtopic exercise section for a topic.
 
-## 1.2 Subtopic 1.2 Heading
+### 1.2 Subtopic 1.2 Heading
 
 This is another subtopic exercise section for a topic.
 
-# 2. Topic 2 Heading
+## 2. Topic 2 Heading
 
 This is the second topic exercise section.
 
