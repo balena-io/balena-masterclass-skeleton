@@ -4,6 +4,10 @@
 * Meta: add generic gitignore [Matthew McGinn]
 * Initial commit from template [Matthew McGinn]
 
+## 1.0.3 - 2020-01-17
+
+* Minor spelling/formatting updates [Matthew McGinn]
+
 ## 1.0.2 - 2020-01-06
 
 * Org: Change from `balena-io-projects` to `balena-io` [Heds Simons]
