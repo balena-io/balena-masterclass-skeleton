@@ -4,6 +4,10 @@
 * Meta: add generic gitignore [Matthew McGinn]
 * Initial commit from template [Matthew McGinn]
 
+## 1.0.4 - 2020-02-12
+
+* Meta: Update formatting for use as external docs [Gareth Davies]
+
 ## 1.0.3 - 2020-01-17
 
 * Minor spelling/formatting updates [Matthew McGinn]
