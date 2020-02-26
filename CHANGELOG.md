@@ -4,6 +4,10 @@
 * Meta: add generic gitignore [Matthew McGinn]
 * Initial commit from template [Matthew McGinn]
 
+## 1.0.5 - 2020-02-26
+
+* Add a specific tl;dr section for topics [Matthew McGinn]
+
 ## 1.0.4 - 2020-02-12
 
 * Meta: Update formatting for use as external docs [Gareth Davies]
