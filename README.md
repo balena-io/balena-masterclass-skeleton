@@ -16,7 +16,11 @@ the following masterclasses:
 ## Introduction
 
 A description of the topics covered in the masterclass and what the reader
-will be able to achieve once they have completed it.
+will be able to achieve once they have completed it. In this masterclass, you will
+learn how to:
+
+* Topic 1
+* Topic 2
 
 ## Hardware and Software Requirements
 
