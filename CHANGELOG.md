@@ -4,6 +4,11 @@
 * Meta: add generic gitignore [Matthew McGinn]
 * Initial commit from template [Matthew McGinn]
 
+# v1.0.6
+## (2020-04-20)
+
+* remove hedss as codeowner [Matthew McGinn]
+
 ## 1.0.5 - 2020-02-26
 
 * Add a specific tl;dr section for topics [Matthew McGinn]
