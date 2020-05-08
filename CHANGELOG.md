@@ -4,6 +4,11 @@
 * Meta: add generic gitignore [Matthew McGinn]
 * Initial commit from template [Matthew McGinn]
 
+# v1.0.7
+## (2020-05-08)
+
+* Update CODEOWNERS [Gareth Davies]
+
 # v1.0.6
 ## (2020-04-20)
 
