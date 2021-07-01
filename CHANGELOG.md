@@ -4,6 +4,11 @@
 * Meta: add generic gitignore [Matthew McGinn]
 * Initial commit from template [Matthew McGinn]
 
+# v1.0.8
+## (2021-07-01)
+
+* Delete .github directory [dfunckt]
+
 # v1.0.7
 ## (2020-05-08)
 
